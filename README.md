@@ -40,7 +40,7 @@ Afin de débuter, il faut s'assurer d'avoir installé [Git]() au préalable en s
 5. Vous être prêts à faire toutes les [commandes les plus utilisées](#computer-commandes-les-plus-utilisées) de Git à partir de [git add](git-add) jusqu'à [git push](#git-push), c'est parti!
 6. (Optionnel) Vérifier que tout a été mis sur GitHub en cliquant sur refresh et en voyant vos modifications!
 
-| ![alt text](https://github.com/INF1007-Gabarits/2023H-TP0/blob/main/images/open_folder.png) | 
+| ![alt text](https://github.com/INF1007-Gabarits/TP0/blob/main/images/open_folder.png) | 
 |:--:| 
 | *Figure 1* |
 
@@ -50,7 +50,7 @@ Afin de débuter, il faut s'assurer d'avoir installé [Git]() au préalable en s
 ### Git clone
 Habituellement, tout commence par cloner un répertoire disponible en ligne sur GitHub. Vous pouvez cliquer sur le rectangle vert intitulé '<>Code' puis rendez-vous sur le terminal où vous écrirez la commande suivant:
 ```bash
-    git clone https://github.com/exemple-de-lien/2023H-TP0.git
+    git clone https://github.com/exemple-de-lien/TP0.git
 ```
 ### Git add
 Cette commande permet d'ajouter un fichier que vous voulez répertorier les changements que vous y apportez. C'est la première étape à faire après avoir fait un changement à un fichier quelconque:

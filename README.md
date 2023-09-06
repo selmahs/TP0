@@ -31,7 +31,7 @@ Se familiariser avec les commandes les plus communes que vous allez utiliser sur
 Git est un système de gestion de versions, il vous permet de garder un historique de toutes les modifications que vous faites dans un répertoire (lieu où vous sauvegardez un TP/Projet dans votre cas) aux fichiers qui y sont présents. Ainsi, il est plus facile de vous rappeler les divers modifications qui y ont été faites en les associant à un message informatif. Ceci enlève le risque de perdre votre travail puisque tout est inventorié. Également, Git facilite le travail collaboratif puisque deux personnes peuvent avoir une copie locale du même projet auquel ils font des modifications en parallèle. Quant à lui, GitHub est site web qui permet d'entreposer des répertoires Git en ligne.
 
 ## Ouvrir un nouveau dossier sur VSCode et l'utiliser
-Afin de débuter, il faut s'assurer d'avoir installé [Git]() au préalable en suivant le lien. Par la suite, voici les étapes à réaliser:
+Afin de débuter, il faut s'assurer d'avoir installé [Git](https://git-scm.com/downloads) au préalable en suivant le lien. Par la suite, voici les étapes à réaliser:
 
 1. Se créer un dossier INF1007 quelque part sur son ordinateur pour y garder les prochains TPs et projets en plus du TP0 actuel. Il est aussi possible de le faire directement via un terminal en utilisant la commande `mkdir`
 2. Ouvrir VSCode ou PyCharm et cliquer sur `Open Folder` tel qu'illustré sur la Figure 1 ci-dessous et choisir le nouveau dossier INF1007 créé
